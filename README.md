@@ -127,14 +127,13 @@ This is a **complete, production-ready application** that you can deploy immedia
 - ✅ Full customization rights
 - ✅ Commercial use license
 - ✅ Support documentation
-- ✅ Build scripts for Electron app (.exe)
 - ✅ All configuration files
 
 ### Payment & Delivery:
 - Payment via PayPal, bank transfer, or cryptocurrency
 - Delivery via GitHub private repository or secure file transfer
 - Full source code and documentation included
-- Optional: Brief setup assistance
+
 
 ### Customization Options:
 - Additional features can be added for extra cost
@@ -144,40 +143,7 @@ This is a **complete, production-ready application** that you can deploy immedia
 
 ---
 
-## 📸 Screenshots & Demo
 
-*Note: Screenshots can be added here to showcase the application*
-
-### Key Interfaces:
-- **Notebook Editor** - Full Jupyter-like experience
-- **AI Chat** - Interactive AI assistant
-- **Visualization Generator** - Create and download charts
-- **Presentation Generator** - AI-powered business presentations
-- **File Manager** - Organize your workspace
-
----
-
-## 🔧 Installation (For Buyers)
-
-1. **Clone or download** the repository
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Install and run Ollama:**
-   - Download from https://ollama.ai
-   - Pull a model: `ollama pull llama3.2`
-4. **Run the app:**
-   ```bash
-   streamlit run app.py
-   ```
-
-### Building as Standalone App:
-- **Electron app** - Build scripts included
-- **PyInstaller** - Alternative build method available
-- Both methods fully documented
-
----
 
 ## 📚 Documentation
 
@@ -251,3 +217,4 @@ Ready to transform your development workflow? Contact me to purchase SuperNote A
 ---
 
 *SuperNote AI - Where AI meets Development* 🚀
+
